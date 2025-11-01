@@ -1,9 +1,10 @@
 [
 {"id":"multi.mangadex",
 "name":"MangaDex",
-"file": "https://aidoku-community.github.io/sources/sources/multi.mangadex-v11.aix",
-"icon": "https://aidoku-community.github.io/icons/multi.mangadex-v11.png",
+"file":"https://aidoku-community.github.io/sources/sources/multi.mangadex-v11.aix",
+"icon":"https://aidoku-community.github.io/icons/multi.mangadex-v11.png",
 "lang":"multi",
 "version":11,
-"nsfw":0}
+"nsfw":0,
+"minAppVersion":"0.5"}
 ]
